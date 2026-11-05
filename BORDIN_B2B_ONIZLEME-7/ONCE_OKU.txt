@@ -1,0 +1,1 @@
+ZIP dosyasının tamamını aynı klasöre çıkarıp index.html dosyasını açın. Bölüm hizalaması fare tekerleği, dokunmatik kaydırma ve kaydırma çubuğuyla çalışır. Ekrandan uzun metinler serbestçe okunabilir. Hareketi azalt tercihi açıkken animasyonlar ve otomatik hizalama kapalıdır.
